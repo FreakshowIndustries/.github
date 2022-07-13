@@ -1,9 +1,9 @@
 # FREAKSHOW INDUSTRIES
 👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻
 ## INSTALLER SHA256SUMS
-Backmask_1.02_Setup.exe - d5f311ba5af0f89d77836a5f9091b4e229c83f06d055797ebc30be1b4e81116b
+Backmask_1.02_Setup.exe - 2f1e5d5e16d2b886f0bd885b86d91b47429013a553ad08ec6841879dd26d2c10
 
-Backmask_1.02_Setup.pkg - 850cffe3f84eb1f75d4f5f82419c46c27d32007c18a662d6f9e263af547290a3
+Backmask_1.02_Setup.pkg - f8af0a5c2290fa2c8c8138c9982592f6c6cf53a90a9a85eb801aa64ab1e4d7c3
 
 Backmask_1.0_setup.exe - 9c8c433a124d8f712b38ca904d9f801f67f012d2a46384c36c099a387c198174
 
