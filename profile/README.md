@@ -25,6 +25,9 @@ MISHBY_1.01_Setup.exe - f2903598b14f42ca383308d05f8fe94184162351e361efcd638f22f4
 
 MISHBY_1.01_Setup.pkg - b6091e4b3f268db96a7286c6b83c5f3bec038404fa1eee4a7790915f6c2a4f70
 
+Pocket_Dimension_1.0_Setup.exe - 1d3bf652dbce71976703644e6699d54ec1e4e3459fffa2bfbde096220d2a389b
+
+Pocket_Dimension_1.0_Setup.pkg - 88525f5f68fb11c163d1f683991b72e7b147d9d7b2346bb9848e911d70f5eb7a
 
 
 ## How to generate a sha256 sum
