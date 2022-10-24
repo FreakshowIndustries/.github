@@ -29,6 +29,9 @@ Pocket_Dimension_1.0_Setup.exe - 1d3bf652dbce71976703644e6699d54ec1e4e3459fffa2b
 
 Pocket_Dimension_1.0_Setup.pkg - 88525f5f68fb11c163d1f683991b72e7b147d9d7b2346bb9848e911d70f5eb7a
 
+Pocket_Dimension_1.01_Setup.exe - eea440b69932f984a02dd86878520ac5961d3379a292ac18ebd0d18a2e3e6cda
+
+Pocket_Dimension_1.01_Setup.pkg - 1bead28578cad2c0fc7cad6122c365d6ff09a86fbe808624a395ee0e8cca52cc
 
 ## How to generate a sha256 sum
 to check the validity of your installer
